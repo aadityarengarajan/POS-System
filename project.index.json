@@ -1,0 +1,9 @@
+{
+	"name" : "POS System",
+	"description" : "Point of Sales System - School Based Project",
+	"created" : "02/04/2021",
+	"completed" : "true",
+	"modules" : ["dump,load", "random", "datetime as dt", "listdir"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "PO-02042021-220354"
+}

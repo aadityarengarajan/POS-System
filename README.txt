@@ -1,0 +1,2 @@
+USE 'minified.py' IF YOU WANT TO BE SIMPLE.
+USE 'maxified' FOLDER IF YOU WANT CLEAN CODE.
